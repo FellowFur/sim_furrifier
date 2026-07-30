@@ -16,6 +16,6 @@ Included are the code for the following mods:
 - `Template_Exporter`: A private tool used for Furry Premade Sims. Works similarly to the Preset Creator, but is less friendly, targets more sims at once and has many more conditions.
 - `Tenant_Spawner`: A private tool that forces all the Tenant sim households to spawn so they can be modified and tested.
 
-## Contents
+## Permissions
 
 This source code has the same permissions as the mods themselves, you can do pretty much anything you want with it, but please ask me first if you're doing anything more than privately modifying it or using code snippets from it.
